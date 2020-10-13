@@ -117,6 +117,13 @@ JOB options:
 3270 Python library [py3270](https://pypi.python.org/pypi/py3270/0.2.0)  
 x3270, s3270 or wc3270.exe installed on your sytem  
 
+It is better to install from 
+https://github.com/aloksaurabh/py3270
+and run setup
+and extract 
+http://x3270.bgp.nu/download/03.06/wc3270-3.6ga4-noinstall-64.zip
+then add to path
+
 ## Getting general information
 ```
 root@kali:~/cics# python cicspwn.py -a CICS 192.168.1.209 23 -i
